@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "João Pedro",
   "license": "ISC",
   "dependencies": {
     "allure-commandline": "^2.29.0",
